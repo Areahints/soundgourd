@@ -1,2 +1,0 @@
-# soundgourd
-GitHub Pages
